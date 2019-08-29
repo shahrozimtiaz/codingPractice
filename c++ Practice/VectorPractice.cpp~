@@ -1,0 +1,8 @@
+#include <iostream>
+#include <vector>
+using namepsace std;
+
+int main(int argc, char[] argv){
+  argv.length();
+  //string str(argv
+}
