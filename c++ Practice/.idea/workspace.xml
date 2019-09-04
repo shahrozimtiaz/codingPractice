@@ -11,7 +11,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e05a518-c721-448c-a16b-10850083dda1" name="Default Changelist" comment="" />
+    <list default="true" id="0e05a518-c721-448c-a16b-10850083dda1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/a.out" afterDir="false" />
+    </list>
     <ignored path="/Applications/CMake.app/Contents/bin/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,25 +28,43 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/twoSum.cpp">
+        <entry file="file://$PROJECT_DIR$/prac.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+            <state relative-caret-position="180">
+              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/twoSum.cpp" />
         <option value="$PROJECT_DIR$/c++Practice.cpp" />
+        <option value="$PROJECT_DIR$/prac.cpp" />
       </list>
     </option>
   </component>
@@ -50,6 +73,9 @@
     <option name="y" value="43" />
     <option name="width" value="1400" />
     <option name="height" value="775" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -63,32 +89,6 @@
               <item name="c___Practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="c++ Practice" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="c___Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c++ Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="vectorPracticedebug.dSYM" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="c___Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c++ Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="vectorPracticedebug.dSYM" type="462c0819:PsiDirectoryNode" />
-              <item name="Contents" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="c___Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c++ Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="vectorPracticedebug.dSYM" type="462c0819:PsiDirectoryNode" />
-              <item name="Contents" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="c___Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c++ Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="vectorPracticedebug.dSYM" type="462c0819:PsiDirectoryNode" />
-              <item name="Contents" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-              <item name="DWARF" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -97,6 +97,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
@@ -132,34 +133,37 @@
       <updated>1557974703126</updated>
       <workItem from="1557974705458" duration="641000" />
       <workItem from="1557975452510" duration="128000" />
+      <workItem from="1567094275741" duration="1320000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="769000" />
+    <option name="totallyTimeSpent" value="2089000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="775" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533137" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2569956" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.329429" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329429" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.329429" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="CMake" order="11" visible="true" weight="0.329429" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.329429" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3298969" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +191,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
