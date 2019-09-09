@@ -11,7 +11,7 @@ driver = webdriver.Chrome(options=options)
 wait = WebDriverWait(driver, 10)
 ps4Link = 'https://www.amazon.com/PlayStation-4-Slim-1TB-Console/dp/B071CV8CG2?ref_=Oct_BSellerC_6427871011_0&pf_rd_p=19e7ab65-a919-5edb-bc56-4af227784c6f&pf_rd_s=merchandised-search-6&pf_rd_t=101&pf_rd_i=6427871011&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=5DNCG3CX7743Z023531P&th=1'
 ps4Price = None
-ps4PriceToCompare = 285
+ps4PriceToCompare = 284
 
 
 def priceChecker():
@@ -58,6 +58,7 @@ if(__name__ == '__main__'):
         print('Done!')
     except Exception as e:
         print('Something went wrong', e.args)
+
 
 
 
