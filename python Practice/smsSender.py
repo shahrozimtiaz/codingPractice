@@ -9,6 +9,9 @@ sms_gateway = '5714205607@txt.att.net'
 sms_gateway_prompt = input("Enter SMS gateway or leave blank for default\n")
 if(sms_gateway_prompt != ""):
     sms_gateway = sms_gateway_prompt
+    if('@' not in sms_gateway):
+        sms_gateway += '@txt.att.net'
+
 subject = input("Enter subject or leave blank for no subject\n")
 
 # Create a multipart message and set headers
@@ -26,7 +29,6 @@ body = MIMEText(text, "plain")
 message.attach(body)
 # message["Bcc"] = receiver_email  # Recommended for mass emails
 
-print("sending..")
 context = ssl.create_default_context()
 server = smtplib.SMTP_SSL('smtp.gmail.com', 465,context=context)
 
@@ -38,6 +40,7 @@ server.login(username, password)
 # msg = "Python sample message\n Hello!" # The /n separates the message from the headers
 x = input("How many times would you like to send the message?\n")
 for i in range(int(x)):
+    print("sending:",i+1)
     server.sendmail(sender_email, sms_gateway, message.as_string())
 server.close()
 print("sent")

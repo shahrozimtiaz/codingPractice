@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="530a4544-f13b-4d7a-8582-9a57b9f98c68" name="Default Changelist" comment="" />
+    <list default="true" id="530a4544-f13b-4d7a-8582-9a57b9f98c68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EpicAssessment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python Practice/RandPrac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python Practice/bankingNetwork.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python Practice/bus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python Practice/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python Practice/hospitalDirectory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python Practice/transportionTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python Practice/vehicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python Practice/venv/longestSubstringNonRepeating.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python Practice/verisign.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python Practice/wordSearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/java practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CassConnect.java" beforeDir="false" afterPath="$PROJECT_DIR$/CassConnect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CassandraClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/CassandraClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java practice/.idea/java practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java practice/.idea/java practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java practice/META-INF/java practice.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaScript practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaScript practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaScript practice/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../javaScript practice/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python Practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python Practice/ps4PriceChecker.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python Practice/ps4PriceChecker.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +36,30 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../3-Current Semester - (Fall 2019)/3-CS 3250/src/EmptyTemplateForChrome_Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Practice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+              <folding>
+                <element signature="e#143#144#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -20,6 +67,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -33,6 +83,12 @@
         <option value="$PROJECT_DIR$/Hangman.java" />
         <option value="$PROJECT_DIR$/CassandraConnector.java" />
         <option value="$PROJECT_DIR$/twoSum.java" />
+        <option value="$PROJECT_DIR$/CassConnect.java" />
+        <option value="$PROJECT_DIR$/CassandraClient.java" />
+        <option value="$PROJECT_DIR$/EpicAssessment.java" />
+        <option value="$PROJECT_DIR$/EmptyTemplateForChrome_Test.java" />
+        <option value="$PROJECT_DIR$/../../3-Current Semester - (Fall 2019)/3-CS 3250/src/EmptyTemplateForChrome_Test.java" />
+        <option value="$PROJECT_DIR$/Practice.java" />
       </list>
     </option>
   </component>
@@ -48,11 +104,15 @@
     <option name="width" value="1416" />
     <option name="height" value="784" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -69,10 +129,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -93,9 +153,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Hangman">
-    <configuration name="Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Anagrams" />
+  <component name="RunManager" selected="Application.Practice">
+    <configuration name="EpicAssessment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EpicAssessment" />
       <module name="java practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,15 +175,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Palindrome" />
+    <configuration name="HouseRobber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HouseRobber" />
       <module name="java practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="twoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twoSum" />
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice" />
       <module name="java practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -131,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practice" />
         <item itemvalue="Application.Hangman" />
+        <item itemvalue="Application.HouseRobber" />
+        <item itemvalue="Application.EpicAssessment" />
         <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.twoSum" />
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.Anagrams" />
       </list>
     </recent_temporary>
   </component>
@@ -154,8 +214,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="9" y="29" width="1416" height="784" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16375546" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1812227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -164,7 +225,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3236994" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19075145" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39884394" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -172,7 +233,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32803467" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32658958" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -204,16 +265,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageAnalyer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="34" column="33" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -279,19 +330,111 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CassConnect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CassandraClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-column="2" selection-end-line="176" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="657" column="18" selection-start-line="657" selection-start-column="18" selection-end-line="657" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicAssessment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="38" column="58" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/words.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41283" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageAnalyer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="34" column="33" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Karatsuba.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HouseRobber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="40" selection-start-line="40" selection-end-line="48" selection-end-column="20" />
+        <state relative-caret-position="375">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inheritance/ShapeI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inheritance/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inheritance/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Hangman.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="27" />
+        <state relative-caret-position="303">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../3-Current Semester - (Fall 2019)/3-CS 3250/src/EmptyTemplateForChrome_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <folding>
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
           </folding>
         </state>
       </provider>
