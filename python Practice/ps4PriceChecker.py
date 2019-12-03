@@ -7,12 +7,12 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 options = Options()
 options.headless = True
-driver = webdriver.Chrome(options=options)
+options.add_argument('--no-sandbox')
+driver = webdriver.Chrome('/usr/lib/chromium-browser/chromedriver',options=options)
 wait = WebDriverWait(driver, 10)
 ps4Link = 'https://www.amazon.com/PlayStation-4-Slim-1TB-Console/dp/B071CV8CG2?ref_=Oct_BSellerC_6427871011_0&pf_rd_p=19e7ab65-a919-5edb-bc56-4af227784c6f&pf_rd_s=merchandised-search-6&pf_rd_t=101&pf_rd_i=6427871011&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=5DNCG3CX7743Z023531P&th=1'
 ps4Price = None
 ps4PriceToCompare = 285
-
 
 def priceChecker():
     driver.get(ps4Link)
@@ -56,8 +56,7 @@ if(__name__ == '__main__'):
             print('Price has not dropped from $' + str(ps4PriceToCompare))
         driver.quit()
         print('Done!')
-    except Exception as e:
+    except NameError as e:
         print('Something went wrong', e.args)
-
-
-
+        sender = emailSender('shahrozimtiaz07@gmail.com','Jokerface07!')
+        sender.sendMessage('shahrozimtiaz07@gmail.com','PS4 Price Error',e.args)
