@@ -1,5 +1,6 @@
 import pygame
 import random
+import copy
 
 class Node:
     def __init__(self,r,c,x,y,w=25,h=25,color=(0,128,255)):
@@ -93,6 +94,57 @@ def create_grid(win,src,sink):
     buttons = [button1,button2,button3,button4,button5]
     return nodes, buttons
 
+def create_grid_with_walls(win,og_nodes,src,sink):
+    win.fill((0, 0, 0))
+    rectW = 25
+    rectH = 25
+    w, h = pygame.display.get_surface().get_size()
+    y = -rectH
+    gridH = (h - (2 * rectH)) // rectH
+    gridW = w // rectW
+    nodes = [[None]*gridW for r in range(gridH)]
+    for r in range(gridH):
+        y += rectH
+        x = -rectW
+        for c in range(gridW):
+            x += rectW
+            node = Node(r,c,x,y)
+            nodes[r][c] = node
+            pygame.draw.rect(win, node.color, node.rect)
+            if r == src[0] and c == src[1]:
+                node.src = True
+                pygame.draw.rect(win, (0, 255, 0), pygame.Rect(node.innerRect))
+            elif r == sink[0] and c == sink[1]:
+                node.sink = True
+                pygame.draw.rect(win, (255, 0, 0), pygame.Rect(node.innerRect))
+            elif og_nodes[r][c].wall:
+                node.wall = True
+                pygame.draw.rect(win, (255, 255, 255), pygame.Rect(node.innerRect))
+            else:
+                pygame.draw.rect(win, (0, 0, 0), pygame.Rect(node.innerRect))
+    bx, by = 18, h-30
+    button_buffer = 13
+    button1 = Button(bx,by,(255,0,0),'Restart')
+    button1.add_button(win)
+
+    button = button1
+    button2 = Button(button.x + button.w + button_buffer, by, (255, 0, 0), 'DFS')
+    button2.add_button(win)
+
+    button = button2
+    button3 = Button(button.x + button.w + button_buffer, by, (255, 0, 0), 'BFS')
+    button3.add_button(win)
+
+    button = button3
+    button4 = Button(button.x + button.w + button_buffer, by, (255, 0, 0), 'A*')
+    button4.add_button(win)
+
+    button=button4
+    button5 = Button(button.x + button.w + button_buffer,by,(255,0,0),'Quit')
+    button5.add_button(win)
+    buttons = [button1,button2,button3,button4,button5]
+    return nodes, buttons
+
 
 def create_wall(event):
     for row in nodes:
@@ -111,8 +163,11 @@ def get_node(event):
                 return node
             
 
-def set_up(src,sink):
-    nodes, buttons = create_grid(win,src,sink)
+def set_up(src,sink,nodes=None):
+    if not nodes:
+        nodes, buttons = create_grid(win,src,sink)
+    else:
+        nodes, buttons = create_grid_with_walls(win,nodes,src,sink)
     return nodes,buttons
 
 
@@ -265,6 +320,14 @@ def A_STAR(win,nodes,src):
 
         pygame.display.update()
 
+def add_label(x,y,w,h,label,color,font_size):
+    font = pygame.font.Font('freesansbold.ttf', font_size)
+    text_surface = font.render(label, True, (255, 255, 255))
+    text_rect = text_surface.get_rect()
+    text_rect.center = (x + w / 2, y + h / 2)
+    pygame.draw.rect(win, color, text_rect)
+    win.blit(text_surface, text_rect)
+
 
 
 if __name__ == '__main__':
@@ -287,13 +350,16 @@ if __name__ == '__main__':
                     src, sink = (3, 3), (18, 33)
                     nodes, buttons = set_up(src,sink)
                 elif button == 'DFS':
-                    nodes, buttons = set_up(src,sink)
+                    nodes, buttons = set_up(src,sink,nodes)
+                    add_label(650, 670, 20, 20, 'Depth First Search', (0, 0, 0), 20)
                     DFS(win,nodes,src)
                 elif button == 'BFS':
-                    nodes, buttons = set_up(src,sink)
+                    nodes, buttons = set_up(src,sink,nodes)
+                    add_label(650, 670, 20, 20, 'Breadth First Search', (0, 0, 0), 20)
                     BFS(win,nodes,src)
                 elif button == 'A*':
-                    nodes, buttons = set_up(src,sink)
+                    nodes, buttons = set_up(src,sink,nodes)
+                    add_label(650, 670, 20, 20, 'A* Search', (0, 0, 0), 20)
                     A_STAR(win,nodes,src)
                 elif button == 'Quit':
                     done = True
@@ -312,12 +378,12 @@ if __name__ == '__main__':
                 node = get_node(event)
                 if node:
                     src = (node.r, node.c)
-                    nodes, buttons = set_up(src, sink)
+                    nodes, buttons = set_up(src, sink,nodes)
             if sinkDragging and event.type == pygame.MOUSEMOTION:
                 node = get_node(event)
                 if node:
                     sink = (node.r,node.c)
-                    nodes, buttons = set_up(src,sink)
+                    nodes, buttons = set_up(src,sink,nodes)
             if dragging and event.type == pygame.MOUSEMOTION:
                 create_wall(event)
         pygame.display.update()

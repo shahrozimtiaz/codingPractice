@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad60425f-97bb-4373-b328-0728b910def6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JeremyProject2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2 Sreeharikesan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allComboCoverage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dijkstra's algorithm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hashmap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mistakes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pathfinderVisualizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payCalculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/probability.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scores2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sodokuGenerator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sudokuProblems.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sudokuSolver.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandPrac.py" beforeDir="false" afterPath="$PROJECT_DIR$/RandPrac.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faceRecognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/faceRecognition.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pathfinderVisualizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/pathfinderVisualizer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,11 +15,11 @@
     <session id="-756755050">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="137" />
+          <entry key="project.closed" value="138" />
           <entry key="project.open.time.0" value="15" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="2" />
-          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.12" value="4" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.18" value="1" />
@@ -47,7 +31,7 @@
           <entry key="project.open.time.7" value="11" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="6" />
-          <entry key="project.opened" value="138" />
+          <entry key="project.opened" value="139" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -72,7 +56,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="63435" />
+          <entry key="py" value="63791" />
           <entry key="tensflow1" value="1" />
           <entry key="txt" value="6" />
         </counts>
@@ -80,7 +64,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="63435" />
+          <entry key="Python" value="63791" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
@@ -91,13 +75,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pathfinderVisualizer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="295" column="53" selection-start-line="295" selection-start-column="53" selection-end-line="295" selection-end-column="53" />
+            <state relative-caret-position="225">
+              <caret line="379" column="42" lean-forward="true" selection-start-line="379" selection-start-column="42" selection-end-line="379" selection-end-column="42" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
-                <marker date="1584168199932" expanded="true" signature="1241:1243" ph="..." />
-                <marker date="1584168199932" expanded="true" signature="5578:9857" ph="..." />
-                <marker date="1584168199932" expanded="true" signature="9855:9857" ph="..." />
+                <marker date="1584212106712" expanded="true" signature="1253:1255" ph="..." />
+                <marker date="1584212106712" expanded="true" signature="11839:12131" ph="..." />
               </folding>
             </state>
           </provider>
@@ -747,13 +730,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pathfinderVisualizer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="295" column="53" selection-start-line="295" selection-start-column="53" selection-end-line="295" selection-end-column="53" />
+        <state relative-caret-position="225">
+          <caret line="379" column="42" lean-forward="true" selection-start-line="379" selection-start-column="42" selection-end-line="379" selection-end-column="42" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-            <marker date="1584168199932" expanded="true" signature="1241:1243" ph="..." />
-            <marker date="1584168199932" expanded="true" signature="5578:9857" ph="..." />
-            <marker date="1584168199932" expanded="true" signature="9855:9857" ph="..." />
+            <marker date="1584212106712" expanded="true" signature="1253:1255" ph="..." />
+            <marker date="1584212106712" expanded="true" signature="11839:12131" ph="..." />
           </folding>
         </state>
       </provider>
