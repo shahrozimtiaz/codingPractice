@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad60425f-97bb-4373-b328-0728b910def6" name="Default Changelist" comment="" />
+    <list default="true" id="ad60425f-97bb-4373-b328-0728b910def6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JeremyProject2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2 Sreeharikesan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allComboCoverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dijkstra's algorithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashmap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mistakes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pathfinderVisualizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/payCalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/probability.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scores2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sodokuGenerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sudokuProblems.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sudokuSolver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandPrac.py" beforeDir="false" afterPath="$PROJECT_DIR$/RandPrac.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faceRecognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/faceRecognition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,52 +31,57 @@
     <session id="-756755050">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="114" />
-          <entry key="project.open.time.0" value="12" />
-          <entry key="project.open.time.1" value="3" />
+          <entry key="project.closed" value="137" />
+          <entry key="project.open.time.0" value="15" />
+          <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="2" />
-          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.3" value="16" />
-          <entry key="project.open.time.4" value="23" />
-          <entry key="project.open.time.5" value="17" />
-          <entry key="project.open.time.6" value="24" />
-          <entry key="project.open.time.7" value="8" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="114" />
+          <entry key="project.open.time.3" value="17" />
+          <entry key="project.open.time.4" value="25" />
+          <entry key="project.open.time.5" value="18" />
+          <entry key="project.open.time.6" value="28" />
+          <entry key="project.open.time.7" value="11" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="6" />
+          <entry key="project.opened" value="138" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="JPG" value="3" />
           <entry key="html" value="2" />
-          <entry key="jpg" value="20" />
+          <entry key="jpg" value="22" />
           <entry key="png" value="2" />
-          <entry key="py" value="123" />
+          <entry key="py" value="160" />
           <entry key="tensflow1" value="1" />
-          <entry key="txt" value="46" />
+          <entry key="txt" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="2" />
-          <entry key="Image" value="25" />
-          <entry key="PLAIN_TEXT" value="46" />
-          <entry key="Python" value="122" />
-          <entry key="Scratch" value="2" />
+          <entry key="Image" value="27" />
+          <entry key="PLAIN_TEXT" value="53" />
+          <entry key="Python" value="158" />
+          <entry key="Scratch" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="37767" />
+          <entry key="py" value="63435" />
           <entry key="tensflow1" value="1" />
+          <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="37768" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="63435" />
+          <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -65,13 +89,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ServerPing.py">
+        <entry file="file://$PROJECT_DIR$/pathfinderVisualizer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="107" selection-start-line="8" selection-start-column="107" selection-end-line="8" selection-end-column="107" />
+            <state relative-caret-position="296">
+              <caret line="295" column="53" selection-start-line="295" selection-start-column="53" selection-end-line="295" selection-end-column="53" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#0#13#0" expanded="true" />
+                <marker date="1584168199932" expanded="true" signature="1241:1243" ph="..." />
+                <marker date="1584168199932" expanded="true" signature="5578:9857" ph="..." />
+                <marker date="1584168199932" expanded="true" signature="9855:9857" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RandPrac.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -97,7 +133,22 @@
       <find>price</find>
       <find>priceblock_ourprice</find>
       <find>print</find>
+      <find>x</find>
+      <find>con</find>
+      <find>value</find>
+      <find>prin</find>
+      <find>0</find>
+      <find>rect</find>
+      <find>pr</find>
+      <find>6</find>
+      <find>ran</find>
+      <find>open</find>
+      <find>closed</find>
     </findStrings>
+    <replaceStrings>
+      <replace>add_button</replace>
+      <replace>text_rect</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -105,20 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/practice.py" />
-        <option value="$PROJECT_DIR$/Anagrams.py" />
-        <option value="$PROJECT_DIR$/speechRecognition.py" />
-        <option value="$PROJECT_DIR$/faceRecognition.py" />
-        <option value="$PROJECT_DIR$/engToSpanish.txt" />
-        <option value="$PROJECT_DIR$/flappyBird.py" />
-        <option value="$PROJECT_DIR$/ISS.py" />
-        <option value="$PROJECT_DIR$/ages.txt" />
-        <option value="$PROJECT_DIR$/MySqlConnector.py" />
-        <option value="$PROJECT_DIR$/prac.py" />
-        <option value="$PROJECT_DIR$/AgeCalculator.py" />
-        <option value="$PROJECT_DIR$/menu.py" />
-        <option value="$PROJECT_DIR$/automation.py" />
-        <option value="$PROJECT_DIR$/swiftPay.py" />
         <option value="$PROJECT_DIR$/menuApp.py" />
         <option value="$PROJECT_DIR$/emailSender.py" />
         <option value="$PROJECT_DIR$/AsOfNowStats.py" />
@@ -146,7 +183,6 @@
         <option value="$PROJECT_DIR$/verisign.py" />
         <option value="$PROJECT_DIR$/bank.py" />
         <option value="$PROJECT_DIR$/bankingNetwork.py" />
-        <option value="$PROJECT_DIR$/RandPrac.py" />
         <option value="$PROJECT_DIR$/hospitalDirectory.py" />
         <option value="$PROJECT_DIR$/smsSender.py" />
         <option value="$PROJECT_DIR$/selePrac.py" />
@@ -154,14 +190,30 @@
         <option value="$PROJECT_DIR$/cry.py" />
         <option value="$PROJECT_DIR$/taxiService.py" />
         <option value="$PROJECT_DIR$/ServerPing.py" />
+        <option value="$PROJECT_DIR$/allComboCoverage.py" />
+        <option value="$PROJECT_DIR$/hashset.py" />
+        <option value="$PROJECT_DIR$/linkedList.py" />
+        <option value="$PROJECT_DIR$/hashmap.py" />
+        <option value="$PROJECT_DIR$/words.txt" />
+        <option value="$PROJECT_DIR$/mistakes.py" />
+        <option value="$PROJECT_DIR$/dijkstra's algorithm.py" />
+        <option value="$PROJECT_DIR$/probability.py" />
+        <option value="$PROJECT_DIR$/JeremyProject2.py" />
+        <option value="$PROJECT_DIR$/Project 2 Sreeharikesan.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+        <option value="$PROJECT_DIR$/payCalculator.py" />
+        <option value="$PROJECT_DIR$/sodokuGenerator.py" />
+        <option value="$PROJECT_DIR$/sudokuProblems.txt" />
+        <option value="$PROJECT_DIR$/sudokuSolver.py" />
+        <option value="$PROJECT_DIR$/RandPrac.py" />
+        <option value="$PROJECT_DIR$/pathfinderVisualizer.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="12" />
-    <option name="y" value="55" />
-    <option name="width" value="1411" />
-    <option name="height" value="780" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="812" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -171,7 +223,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,16 +243,21 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/shahrozimtiaz/Documents/codingPractice/python Practice/ages.txt" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -217,8 +273,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ServerPing">
-    <configuration name="ServerPing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.pathfinderVisualizer">
+    <configuration name="RandPrac" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,7 +286,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ServerPing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RandPrac.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,7 +295,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cry" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pathfinderVisualizer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,7 +307,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cry.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pathfinderVisualizer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,7 +316,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fileMoving" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sodokuGenerator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,7 +328,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fileMoving.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sodokuGenerator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -281,7 +337,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hospitalDirectory" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sudokuSolver" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -293,7 +349,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hospitalDirectory.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sudokuSolver.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -302,7 +358,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="taxiService" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="verisign" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -314,7 +370,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/taxiService.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/verisign.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -324,19 +380,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.hospitalDirectory" />
-      <item itemvalue="Python.fileMoving" />
-      <item itemvalue="Python.cry" />
-      <item itemvalue="Python.taxiService" />
-      <item itemvalue="Python.ServerPing" />
+      <item itemvalue="Python.RandPrac" />
+      <item itemvalue="Python.verisign" />
+      <item itemvalue="Python.sudokuSolver" />
+      <item itemvalue="Python.sodokuGenerator" />
+      <item itemvalue="Python.pathfinderVisualizer" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ServerPing" />
-        <item itemvalue="Python.taxiService" />
-        <item itemvalue="Python.hospitalDirectory" />
-        <item itemvalue="Python.cry" />
-        <item itemvalue="Python.fileMoving" />
+        <item itemvalue="Python.pathfinderVisualizer" />
+        <item itemvalue="Python.RandPrac" />
+        <item itemvalue="Python.sodokuGenerator" />
+        <item itemvalue="Python.sudokuSolver" />
+        <item itemvalue="Python.verisign" />
       </list>
     </recent_temporary>
   </component>
@@ -363,21 +419,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="12" y="55" width="1411" height="780" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="812" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24748202" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19661734" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49891225" weight="0.28052327" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997093" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4982382" visible="true" weight="0.35" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3986111" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49963742" weight="0.32941177" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49963742" weight="0.32848838" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010877" side_tool="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5017618" side_tool="true" weight="0.23333333" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49963742" weight="0.32848838" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -406,84 +463,7 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/AgeCalculator.py</url>
-          <line>57</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/menu.py" />
-    <entry file="file://$PROJECT_DIR$/engToSpanish.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="2985" column="29" lean-forward="true" selection-start-line="2985" selection-start-column="29" selection-end-line="2985" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pizza.jpg" />
-    <entry file="file://$PROJECT_DIR$/salmon.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/macCheese.jpg" />
-    <entry file="file://$PROJECT_DIR$/calzone.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/worldInfo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yeetPepi.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AsOfNowStats.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensflow1" />
-    <entry file="file://$PROJECT_DIR$/tensFlow1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trafficSigns.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="23" lean-forward="true" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IMG-0114.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IMG-0113.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/obama.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pdfConverter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jk.py" />
-    <entry file="file://$PROJECT_DIR$/translator.py" />
-    <entry file="file://$PROJECT_DIR$/ps4BestBuyPriceChecker.py" />
-    <entry file="file://$PROJECT_DIR$/pythonPractice.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/wordSearch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="611">
@@ -509,13 +489,6 @@
     <entry file="file://$PROJECT_DIR$/transportation.py" />
     <entry file="file://$PROJECT_DIR$/ford.py" />
     <entry file="file://$PROJECT_DIR$/carBrand.py" />
-    <entry file="file://$PROJECT_DIR$/vehicle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/car.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -537,13 +510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AgeCalculator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="48" column="54" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/longestPalindrome.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -551,28 +517,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/menuApp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/verisign.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bank.py" />
-    <entry file="file://$PROJECT_DIR$/RandPrac.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/emailSender.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -632,30 +577,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hospitalDirectory.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bankingNetwork.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="24" selection-start-line="14" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/taxiService.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="401">
           <caret line="122" column="26" selection-start-line="122" selection-start-column="26" selection-end-line="122" selection-end-column="26" />
-          <folding>
-            <marker date="1574936103517" expanded="true" signature="18:19" ph="..." />
-            <marker date="1574936103517" expanded="true" signature="18:183" ph="..." />
-            <marker date="1574936103517" expanded="true" signature="125:130" ph="..." />
-            <marker date="1574936103517" expanded="true" signature="268:358" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -666,9 +591,177 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="107" selection-start-line="8" selection-start-column="107" selection-end-line="8" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allComboCoverage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="96" selection-start-line="28" selection-start-column="96" selection-end-line="28" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bankingNetwork.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="29" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospitalDirectory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hashmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="89" column="17" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hashset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="109" selection-start-line="8" selection-start-column="109" selection-end-line="8" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menuApp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/words.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mistakes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="217" column="32" selection-start-line="217" selection-start-column="32" selection-end-line="217" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dijkstra's algorithm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="36" column="45" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/probability.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scores2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 2 Sreeharikesan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeremyProject2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/verisign.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whitePizza.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vehicle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testMYSLL.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steak.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payCalculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AgeCalculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sudokuProblems.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sudokuSolver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="159" column="31" selection-start-line="159" selection-start-column="31" selection-end-line="159" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sodokuGenerator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pathfinderVisualizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="295" column="53" selection-start-line="295" selection-start-column="53" selection-end-line="295" selection-end-column="53" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1584168199932" expanded="true" signature="1241:1243" ph="..." />
+            <marker date="1584168199932" expanded="true" signature="5578:9857" ph="..." />
+            <marker date="1584168199932" expanded="true" signature="9855:9857" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RandPrac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
         </state>
       </provider>
     </entry>
